@@ -3,8 +3,6 @@
 ## Description
 This react app gives movie results on searching, user can nominate their favorite movies, which will be stored in the localstorage of the browser.
 
-## [Code of Conduct](https://github.com/MukulKolpe/Movie-Search-App/blob/main/CODE_OF_CONDUCT.md)
-
 
 ## Tech-stack Used
 - React.js
@@ -31,19 +29,13 @@ Make sure you have node.js installed.
  ```
 4. Install node modules
  ```
- yarn install
+ npm install
  ```
 5. Generate your own API key on [OMDB API](https://www.omdbapi.com/)  
 6. Create .env file inside the root directory.  
 7. Write ```REACT_APP_API_KEY="YOUR-API-KEY"``` inside .env file.   
 8. 
  ```
- yarn start
+ npm start
  ```
    
-
-## Hosted [here](https://movie-search-bymukul.netlify.app/)
-
-## License
-
-### [MIT License](https://github.com/MukulKolpe/Movie-Search-App/blob/main/LICENSE)
