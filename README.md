@@ -1,4 +1,4 @@
-# Movie Search App
+# Movie Finder 
 
 ## Description
 This react app gives movie results on searching, user can nominate their favorite movies, which will be stored in the localstorage of the browser.
