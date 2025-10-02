@@ -39,5 +39,5 @@ Make sure you have node.js installed.
  npm start
  ```
  ![image alt](https://github.com/Mutthuram03/movie_finder/blob/eae2b14eab470eeaae8a7913b3114b60939f1b9f/Screenshot%202025-10-02%20163825.png) 
-  ![image alt](https://github.com/Mutthuram03/movie_finder/blob/eae2b14eab470eeaae8a7913b3114b60939f1b9f/Screenshot%202025-10-02%20163825.png) 
-   ![image alt](https://github.com/Mutthuram03/movie_finder/blob/eae2b14eab470eeaae8a7913b3114b60939f1b9f/Screenshot%202025-10-02%20163825.png) 
+  ![image alt](https://github.com/Mutthuram03/movie_finder/blob/109155fac2bdf793b4449f032a571675d0747498/Screenshot%202025-10-02%20163850.png) 
+   ![image alt](https://github.com/Mutthuram03/movie_finder/blob/109155fac2bdf793b4449f032a571675d0747498/Screenshot%202025-10-02%20165220.png) 
